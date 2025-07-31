@@ -1,0 +1,15 @@
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\Day03Task\obj\Debug\net5.0\Day03Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\Day03Task\obj\Debug\net5.0\Day03Task.AssemblyInfoInputs.cache
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\Day03Task\obj\Debug\net5.0\Day03Task.AssemblyInfo.cs
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\Day03Task\obj\Debug\net5.0\Day03Task.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\Day03Task\bin\Debug\net5.0\Day03Task.exe
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\Day03Task\bin\Debug\net5.0\Day03Task.deps.json
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\Day03Task\bin\Debug\net5.0\Day03Task.runtimeconfig.json
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\Day03Task\bin\Debug\net5.0\Day03Task.runtimeconfig.dev.json
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\Day03Task\bin\Debug\net5.0\Day03Task.dll
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\Day03Task\bin\Debug\net5.0\Day03Task.pdb
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\Day03Task\obj\Debug\net5.0\Day03Task.dll
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\Day03Task\obj\Debug\net5.0\refint\Day03Task.dll
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\Day03Task\obj\Debug\net5.0\Day03Task.pdb
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\Day03Task\obj\Debug\net5.0\Day03Task.genruntimeconfig.cache
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\Day03Task\obj\Debug\net5.0\ref\Day03Task.dll
