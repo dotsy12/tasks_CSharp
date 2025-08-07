@@ -1,0 +1,16 @@
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay04Cs\TaskDay04Cs\bin\Debug\net5.0\TaskDay04Cs.exe
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay04Cs\TaskDay04Cs\bin\Debug\net5.0\TaskDay04Cs.deps.json
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay04Cs\TaskDay04Cs\bin\Debug\net5.0\TaskDay04Cs.runtimeconfig.json
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay04Cs\TaskDay04Cs\bin\Debug\net5.0\TaskDay04Cs.runtimeconfig.dev.json
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay04Cs\TaskDay04Cs\bin\Debug\net5.0\TaskDay04Cs.dll
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay04Cs\TaskDay04Cs\bin\Debug\net5.0\TaskDay04Cs.pdb
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay04Cs\TaskDay04Cs\obj\Debug\net5.0\TaskDay04Cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay04Cs\TaskDay04Cs\obj\Debug\net5.0\TaskDay04Cs.AssemblyInfoInputs.cache
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay04Cs\TaskDay04Cs\obj\Debug\net5.0\TaskDay04Cs.AssemblyInfo.cs
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay04Cs\TaskDay04Cs\obj\Debug\net5.0\TaskDay04Cs.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay04Cs\TaskDay04Cs\obj\Debug\net5.0\TaskDay04Cs.sourcelink.json
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay04Cs\TaskDay04Cs\obj\Debug\net5.0\TaskDay04Cs.dll
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay04Cs\TaskDay04Cs\obj\Debug\net5.0\refint\TaskDay04Cs.dll
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay04Cs\TaskDay04Cs\obj\Debug\net5.0\TaskDay04Cs.pdb
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay04Cs\TaskDay04Cs\obj\Debug\net5.0\TaskDay04Cs.genruntimeconfig.cache
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay04Cs\TaskDay04Cs\obj\Debug\net5.0\ref\TaskDay04Cs.dll
