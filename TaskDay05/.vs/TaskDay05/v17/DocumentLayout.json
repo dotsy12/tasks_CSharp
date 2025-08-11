@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DESKTOP\\Desktop\\Depi EYouth\\C#\\tasks_CSharp\\TaskDay05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2081F478-A868-4FE2-8A1D-6426A350D838}|TaskDay05\\TaskDay05.csproj|c:\\users\\desktop\\desktop\\depi eyouth\\c#\\tasks_csharp\\taskday05\\taskday05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2081F478-A868-4FE2-8A1D-6426A350D838}|TaskDay05\\TaskDay05.csproj|solutionrelative:taskday05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DESKTOP\\Desktop\\Depi EYouth\\C#\\tasks_CSharp\\TaskDay05\\TaskDay05\\Program.cs",
+              "RelativeDocumentMoniker": "TaskDay05\\Program.cs",
+              "ToolTip": "C:\\Users\\DESKTOP\\Desktop\\Depi EYouth\\C#\\tasks_CSharp\\TaskDay05\\TaskDay05\\Program.cs",
+              "RelativeToolTip": "TaskDay05\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwv2EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:48:49.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
