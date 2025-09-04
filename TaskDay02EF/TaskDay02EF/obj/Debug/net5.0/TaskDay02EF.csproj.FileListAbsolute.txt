@@ -1,0 +1,16 @@
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay02EF\TaskDay02EF\bin\Debug\net5.0\TaskDay02EF.exe
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay02EF\TaskDay02EF\bin\Debug\net5.0\TaskDay02EF.deps.json
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay02EF\TaskDay02EF\bin\Debug\net5.0\TaskDay02EF.runtimeconfig.json
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay02EF\TaskDay02EF\bin\Debug\net5.0\TaskDay02EF.runtimeconfig.dev.json
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay02EF\TaskDay02EF\bin\Debug\net5.0\TaskDay02EF.dll
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay02EF\TaskDay02EF\bin\Debug\net5.0\TaskDay02EF.pdb
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay02EF\TaskDay02EF\obj\Debug\net5.0\TaskDay02EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay02EF\TaskDay02EF\obj\Debug\net5.0\TaskDay02EF.AssemblyInfoInputs.cache
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay02EF\TaskDay02EF\obj\Debug\net5.0\TaskDay02EF.AssemblyInfo.cs
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay02EF\TaskDay02EF\obj\Debug\net5.0\TaskDay02EF.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay02EF\TaskDay02EF\obj\Debug\net5.0\TaskDay02EF.sourcelink.json
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay02EF\TaskDay02EF\obj\Debug\net5.0\TaskDay02EF.dll
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay02EF\TaskDay02EF\obj\Debug\net5.0\refint\TaskDay02EF.dll
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay02EF\TaskDay02EF\obj\Debug\net5.0\TaskDay02EF.pdb
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay02EF\TaskDay02EF\obj\Debug\net5.0\TaskDay02EF.genruntimeconfig.cache
+C:\Users\DESKTOP\Desktop\Depi EYouth\C#\tasks_CSharp\TaskDay02EF\TaskDay02EF\obj\Debug\net5.0\ref\TaskDay02EF.dll
