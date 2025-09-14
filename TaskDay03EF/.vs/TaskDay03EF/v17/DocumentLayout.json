@@ -46,8 +46,7 @@
               "RelativeToolTip": "TaskDay03EF\\Migrations\\20250908134656_FirstMigration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T13:46:57.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T13:46:57.05Z"
             },
             {
               "$type": "Document",
@@ -57,7 +56,7 @@
               "RelativeDocumentMoniker": "TaskDay03EF\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\DESKTOP\\Desktop\\Depi EYouth\\C#\\tasks_CSharp\\TaskDay03EF\\TaskDay03EF\\Data\\AppDbContext.cs",
               "RelativeToolTip": "TaskDay03EF\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAkwDMAAAAcAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA7wDMAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T13:39:07.832Z",
               "EditorCaption": ""
@@ -72,8 +71,7 @@
               "RelativeToolTip": "TaskDay03EF\\Models\\project.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T13:35:53.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T13:35:53.378Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "TaskDay03EF\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T13:34:44.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T13:34:44.386Z"
             }
           ]
         }
