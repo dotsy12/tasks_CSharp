@@ -1,12 +1,17 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
+using TaskDay04EF.Data;
 
 namespace TaskDay04EF
 {
 	internal class Program
 	{
-		static void Main(string[] args)
+		public static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+
+			Console.WriteLine("Seeding completed successfully!");
+			Console.ReadKey();
 		}
+
 	}
 }
